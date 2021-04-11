@@ -866,6 +866,10 @@ padding:8px 10px 8px 15px;
     margin-top: 30px;
     font-size: 1.125em;
 }
+.np_siteinfo .email {
+    padding: 20px 0 50px;
+    line-height: 300%;
+}
 
 
 
